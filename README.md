@@ -9,7 +9,7 @@ REST API which sends `301` redirects to map your requests `/alias` to the origin
 
 #### TODO:
 
-- [] Docker setup
-- [] POST endpoint to add new URL aliases
-- [] UI
+- Docker setup
+- POST endpoint to add new URL aliases
+- UI
 - SaaS integration (??)
