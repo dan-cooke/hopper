@@ -1,0 +1,4 @@
+random >> a
+git add .
+git commit -am "chore: commit"
+git push
