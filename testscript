@@ -1,0 +1,7 @@
+for x in (seq 5)
+
+    random >> a
+    git add .
+    git commit -am "chore: commit"
+    git push
+end
